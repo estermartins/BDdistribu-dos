@@ -1,2 +1,2 @@
-# BDdistribu-dos
+# BDdistribuidos
 Aulas/Exercícios
